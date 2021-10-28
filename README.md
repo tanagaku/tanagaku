@@ -1,3 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanagaku)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinoshita0623&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tanagaku&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanagaku&langs_count=8" />
+</div>
